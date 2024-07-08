@@ -1,0 +1,12 @@
+# No subiendo las dependencias de Visual Studio.
+/.vs
+
+# Archivos que no se subirar del proyecto.
+/backendNet.Core/bin/
+/backendNet.Core/obj/
+/backendNet.Services/bin/
+/backendNet.Services/obj/
+/backendNet.Infrastructure/bin/
+/backendNet.Infrastructure/obj/
+/backendNet.WebApi/bin/
+/backendNet.WebApi/obj/
